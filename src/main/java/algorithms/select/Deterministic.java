@@ -1,6 +1,6 @@
-package org.example.select;
+package algorithms.select;
 
-import org.example.metrics.Metrics;
+import algorithms.metrics.Metrics;
 
 public class Deterministic {
     public static int select(int[] a, int k, Metrics m) {

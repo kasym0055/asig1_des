@@ -1,6 +1,6 @@
-package org.example.sort;
+package algorithms.sort;
 
-import org.example.metrics.Metrics;
+import algorithms.metrics.Metrics;
 
 import java.util.concurrent.ThreadLocalRandom;
 

@@ -1,6 +1,6 @@
-package org.example.sort;
+package algorithms.sort;
 
-import org.example.metrics.Metrics;
+import algorithms.metrics.Metrics;
 
 public class MergeSort {
     private static final int CUTOFF = 32;
