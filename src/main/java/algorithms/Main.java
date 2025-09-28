@@ -2,6 +2,7 @@ package algorithms;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import algorithms.geom.ClosestPair;
 import algorithms.metrics.Metrics;
 import algorithms.select.Deterministic;
 import algorithms.sort.MergeSort;

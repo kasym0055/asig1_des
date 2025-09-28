@@ -28,7 +28,7 @@ public class MergeSort {
     }
 
 
-    private static void sort(int[] a, int[] aux, int lo, int hi, Metrics m) {
+    public static void sort(int[] a, int[] aux, int lo, int hi, Metrics m) {
         m.enter();
         try {
             int len = hi - lo;
@@ -47,4 +47,6 @@ public class MergeSort {
             System.arraycopy(aux, lo, a, lo, len);
         } finally { m.exit(); }
     }
+
+
 }

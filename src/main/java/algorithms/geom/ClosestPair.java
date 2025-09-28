@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.geom;
 
 import algorithms.metrics.Metrics;
 
